@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "196013396197",
+    "project_id": "rent3akar",
+    "storage_bucket": "rent3akar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196013396197:android:dc4b1a4719ea3d994b840c",
+        "android_client_info": {
+          "package_name": "com.akar.akar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196013396197-aqam745636c6ah56hbnv0u2qrt7k47aq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akar.akar",
+            "certificate_hash": "f6fa3447c8c774effd46efee029d217120c60e3c"
+          }
+        },
+        {
+          "client_id": "196013396197-t369m41quj3g8likin6vq1h44rfqr3e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh2hd4UlfturoHJwJI48nrlkNsf0g2sFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196013396197-t369m41quj3g8likin6vq1h44rfqr3e6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
